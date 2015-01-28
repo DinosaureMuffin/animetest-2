@@ -4,3 +4,4 @@
 	<img src="images/Chaton-roux.jpg" width="160" height="90"><br/>
 	<img src="images/Fd.jpg" width="192" height="120"><br/>
 	<p>Noel pd</p>
+	<p>Damien gay</p>
