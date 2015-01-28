@@ -13,7 +13,7 @@ if( count($_POST) > 0 ){
                 '".$_POST['menu_title']."')";
 
         if( !$db->query( $sql )){
-            echo "Echec de l'insertion";
+            echo "ERROR";
         } else {
         echo "Féliciation vous avez inserez une nouvelle page";
 
