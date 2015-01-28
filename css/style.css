@@ -30,3 +30,19 @@ body{
 	font-size: 20px;
 	height: 100px;
 }
+#editor{
+	width:500px;
+	height:200px;
+	border:1px solid black;
+}
+.editor_bloc{
+	width:506px;
+	height:30px;
+	background-color:#363636;
+}
+.texte_zone{
+	margin:10% 10%;
+}
+button{
+	margin:5px;
+}
