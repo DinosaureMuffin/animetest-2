@@ -30,6 +30,7 @@ body{
 	font-size: 20px;
 	height: 100px;
 }
+//Ne pas modifier | correspond  a l'editeur de texte'
 #editor{
 	width:500px;
 	height:200px;
